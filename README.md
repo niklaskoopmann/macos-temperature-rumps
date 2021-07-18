@@ -9,3 +9,4 @@ pip install rumps py2app setuptools
 
 python3 setup.py py2app --resources osx-cpu-temp
 ```
+Afterwards, find the finished app in ./dist and start or [add it to startup](https://www.stugon.com/add-remove-startup-programs-in-mac/).
